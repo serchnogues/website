@@ -1,0 +1,25 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 735.255">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fe9d2b;
+      }
+
+      .cls-2 {
+        stroke: #fe9d2b;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>guitar</title>
+  <circle class="cls-1" cx="7.5" cy="7.5" r="7.5"/>
+  <circle class="cls-1" cx="7.5" cy="110.394" r="7.5"/>
+  <circle class="cls-1" cx="7.5" cy="213.287" r="7.5"/>
+  <circle class="cls-1" cx="7.5" cy="316.181" r="7.5"/>
+  <circle class="cls-1" cx="7.5" cy="419.074" r="7.5"/>
+  <circle class="cls-1" cx="7.5" cy="521.968" r="7.5"/>
+  <circle class="cls-1" cx="7.5" cy="624.861" r="7.5"/>
+  <circle class="cls-1" cx="7.5" cy="727.755" r="7.5"/>
+  <line class="cls-2" x1="7.546" y1="7.5" x2="7.454" y2="727.755"/>
+</svg>

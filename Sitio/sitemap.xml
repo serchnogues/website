@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://serchnogues.com/index.html</loc>
+    <lastmod>2018-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://serchnogues.com/images/logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://serchnogues.com/portafolio.html</loc>
+    <lastmod>2018-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://serchnogues.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://serchnogues.com/images/porta.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://serchnogues.com/assets/img_1297.jpg</loc>
+    <lastmod>2018-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://serchnogues.com/assets/parallax.js</loc>
+    <lastmod>2016-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://serchnogues.com/assets/img_1309.jpg.jpg</loc>
+    <lastmod>2018-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

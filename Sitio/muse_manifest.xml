@@ -1,0 +1,83 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="serchnogues.com" resolutions="1x" timestamp="1544206111699">
+  <folder name="assets">
+    <file name="parallax.js" crc="3902191193" seo="true" mt="1454114586000"/>
+    <file name="img_1297.jpg" crc="340579461" seo="true" mt="1542047068000"/>
+    <file name="img_1309.jpg.jpg" crc="3888048493" seo="true" mt="1542047070000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3918411021" ref="index"/>
+    <file name="master_a-master.css" crc="4033193505" ref="index:portafolio"/>
+    <file name="nomq_preview_master_a-master.css" crc="514635661" ref="index:portafolio"/>
+    <file name="nomq_index.css" crc="377713466" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="portafolio.css" crc="147281173" ref="portafolio"/>
+    <file name="nomq_portafolio.css" crc="281302018" ref="portafolio"/>
+    <file name="iefonts_portafolio.css" crc="3824530138" ref="portafolio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portafolio"/>
+    <file name="museutils.js" crc="340535759" ref="index:portafolio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portafolio"/>
+    <file name="museconfig.js" crc="310584261" ref="index:portafolio"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:portafolio"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:portafolio"/>
+    <file name="require.js" crc="7928878" ref="index:portafolio"/>
+    <file name="webpro.js" crc="4059564322" ref="index:portafolio"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:portafolio"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u2234.php" crc="3887034334" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:portafolio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portafolio"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:portafolio"/>
+  </folder>
+  <folder name="images">
+    <file name="1_full_straight_front_na-3d82ef0a2b59f445872a4a9970db1545.jpg" crc="134237591" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="guitar.svg" crc="3845900486" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-01-29 at 10414 pm.jpg" crc="3850609109" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="envelope.png" crc="295746531" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="455497700" seo="true" ref="index:portafolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="1_full_straight_front_na-3d82ef0a2b59f445872a4a9970db1545-u1662-fr.jpg" crc="4212755187" ref="index"/>
+    <file name="japanese_map_symbol_(field)svg.png" crc="199579534" ref="index:portafolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="japanese_map_symbol_(fzxield).png" crc="3991508252" ref="index:portafolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:portafolio"/>
+    <file name="guitar_poster_u2588.png" crc="417747605" ref="index"/>
+    <file name="porta.png" crc="195895934" seo="true" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="1_full_straight_front_na-3d82ef0a2b59f445872a4a9970db1545-u1662-fr2.jpg" crc="4109900980" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4161683127" seo="true" mt="1544206081182" redirect="true"/>
+  <file name="portafolio.html" crc="494483253" seo="true" mt="1544206081182" redirect="true"/>
+</manifest>
